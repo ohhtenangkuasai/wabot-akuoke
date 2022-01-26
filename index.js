@@ -660,17 +660,17 @@ let settingstatus = 0;
 				Semoga harimu menyenangkan
 				
 INFO CREATOR BOT
-*Nama : Aprilia*
-*Instagram : @aprigans_*
-*YouTube : BOT INDO*
-*Link Yt : https://www.youtube.com/c/BOTINDO*
-*WhatsApp : wa.me/628811929177*
+*Nama 𝑀𝑒𝑙𝑙 💫*
+*Instagram : @imell_*
+*YouTube : XRZZz*
+*Link Yt : https://www.youtube.com/c/xrzZ*
+*WhatsApp : http://wa.me/6285775238312*
 
 -----------------------------------•
 
 INFO BOT
 *Nama Bot : ${namabot}*
-*Author : Aprilia*
+*Author : 𝑀𝑒𝑙𝑙 💫*
 *Base : Mhankbarbar*
 *Library : Bailey*
 *Nama Owner : ${namaowner}*
@@ -1593,7 +1593,7 @@ tete = [
 ttbut = {
 imageMessage: pnn.message.imageMessage,
 contentText: `Hai Kak ${pushname} Bot Telah Menmekatkan Title Tersebut , Silahkan Pilih Tombol Akses Di Bawah`,
-footerText: `_*© BOT INDO*_`,
+footerText: `_*© ツˣᴿᶻズガx*_`,
 buttons: tete,
 headerType: 4
 }
@@ -1717,7 +1717,7 @@ tete = [
 ttbut = {
 imageMessage: pnn.message.imageMessage,
 contentText: TITLE,
-footerText: `_*© Aprilia*_`,
+footerText: `_*© ツˣᴿᶻズガx*_`,
 buttons: tete,
 headerType: 4
 }
@@ -3876,7 +3876,7 @@ _${prefix}otaku_
 _${prefix}komiku_
 _${prefix}ppcp_
 `
-sendButMessage(from, menu, '_*BY APRILIA*_', [
+sendButMessage(from, menu, '_*ツˣᴿᶻズガx*_', [
 {buttonId: `${prefix}menu`, buttonText: {displayText: 'MENU BOT:)'}, type: 1},
 {buttonId: `${prefix}donasi`, buttonText: {displayText: 'DONASI BOT ;)'}, type: 1}
 ]);
